@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
@@ -34,3 +35,24 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+=======
+# SnapToSheet – AI-Powered Invoice Screenshot to Excel Converter
+## 📌 Description
+SnapToSheet converts invoice screenshots into structured Excel tables using OCR.
+## 🚀 Features
+- Upload invoice image
+- Extract text using OCR
+- Convert into table format
+- Export as Excel / CSV
+
+## 🛠 Tech Stack
+- Next.js, React, Tailwind
+- OCR: Tesseract.js
+- Deployed on Vercel
+
+## ⚙ Setup Instructions
+
+```bash
+npm install
+npm run dev
+>>>>>>> 67573a0da192af920b261fd2ab1cb866611f4800
